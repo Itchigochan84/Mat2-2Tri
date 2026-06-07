@@ -19,23 +19,6 @@ Um script em Python simples, moderno e interativo para terminal que avalia a seg
 ### Pré-requisitos
 - Python 3.9 ou superior instalado.
 
-### Passo a Passo
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com
-   ```
-2. Acesse a pasta do projeto:
-   ```bash
-   cd NOME-DO-REPOSITORIO
-   ```
-3. Execute o script:
-   ```bash
-   python password_tool.py
-   ```
-
 ## 🛠️ Tecnologias Utilizadas
 - **Python 3** (módulos nativos `secrets` e `string`).
 - **Códigos de Escape ANSI** para renderização de cores diretamente no terminal.
-
-## 📄 Licença
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
