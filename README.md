@@ -1,6 +1,6 @@
 # 🛡️ Password Analyzer & Generator
 
-Um script em Python simples, moderno e interativo para terminal que avalia a segurança de senhas usando um medidor visual (**gauge / ゲージ**) colorido, além de gerar senhas aleatórias criptograficamente seguras.
+Um script em Python simples, moderno e interativo para terminal que avalia a segurança de senhas usando um medidor visual colorido, além de gerar senhas aleatórias criptograficamente seguras.
 
 ## ✨ Funcionalidades
 
